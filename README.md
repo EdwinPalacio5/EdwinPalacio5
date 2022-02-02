@@ -1,11 +1,11 @@
 <img align='right' src="https://i.ibb.co/wSwCfbf/pngwave.png" width="200">
 <h2> Hi, I'm Edwin Palacios 👋</h2>
-<p><em>Web Developer</br> 
+<p><em>Software Developer</br> 
 and System Engineer at <a href="https://www.ues.edu.sv/">UES</a> </br>
 Organizations <a href="https://github.com/MetaBIT-Corp">MetaBit-Corp</a>
 </em></p>
 
-[![Twitter: _EdwinPalacio5](https://img.shields.io/twitter/follow/_EdwinPalacio5?style=social)](https://twitter.com/_EdwinPalacio5)
+[![Twitter: _EdwinPalacio5](https://img.shields.io/twitter/follow/edwinpalacio5sv?style=social)](https://twitter.com/edwinpalacio5sv)
 [![GitHub EdwinPalacio5](https://img.shields.io/github/followers/EdwinPalacio5?style=social)](https://github.com/EdwinPalacio5)
 
 <!--
